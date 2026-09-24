@@ -10,4 +10,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://menachaos.github.io/voltacel/
+Sitemap: https://voltacel.github.io/voltacel/
